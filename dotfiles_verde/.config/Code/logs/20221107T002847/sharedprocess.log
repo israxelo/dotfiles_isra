@@ -1,0 +1,2 @@
+2022-11-07 00:28:49.856 [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+2022-11-07 00:28:50.938 [info] Starting worker process with pid 2969 (type: fileWatcher, window: 1).

@@ -1,0 +1,5 @@
+2022-11-08 19:26:08.801 [info] update#setState idle
+2022-11-08 19:26:10.197 [info] Starting extension host with pid 9475 (fork() took 14 ms).
+2022-11-08 19:26:38.809 [info] update#setState checking for updates
+2022-11-08 19:26:38.883 [info] update#setState idle
+2022-11-08 19:26:55.237 [info] Extension host with pid 9475 exited with code: 0, signal: null.

@@ -1,0 +1,9 @@
+2022/11/08-22:00:10.124 b4a Reusing MANIFEST /home/isra/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/08-22:00:10.124 b4a Recovering log #101
+2022/11/08-22:00:10.128 b4a Reusing old log /home/isra/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000101.log 
+2022/11/08-22:00:10.610 b68 Compacting 1@1 + 1@2 files
+2022/11/08-22:00:10.638 b68 Generated table #104@1: 421 keys, 41902 bytes
+2022/11/08-22:00:10.639 b68 Compacted 1@1 + 1@2 files => 41902 bytes
+2022/11/08-22:00:10.646 b68 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/11/08-22:00:10.646 b68 Delete type=2 #99
+2022/11/08-22:00:10.646 b68 Delete type=2 #102

@@ -1,0 +1,5 @@
+2022-11-09 15:32:38.276 [info] La validación encontró Git en: git
+2022-11-09 15:32:38.276 [info] Usando GIT 2.38.1 desde git
+2022-11-09 15:32:38.276 [info] > git rev-parse --show-toplevel [38ms]
+2022-11-09 15:32:38.277 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

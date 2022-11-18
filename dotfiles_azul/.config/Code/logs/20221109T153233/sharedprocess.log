@@ -1,0 +1,9 @@
+2022-11-09 15:32:36.698 [info] Starting worker process with pid 3180 (type: fileWatcher, window: 1).
+2022-11-09 15:32:40.544 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2022-11-09 15:32:41.036 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2022-11-09 15:32:43.142 [info] Extracted extension to /home/isra/.vscode/extensions/.fcc3fdee-8619-41ed-9510-1eb23a3069c8: ms-ceintl.vscode-language-pack-es
+2022-11-09 15:32:43.165 [info] Renamed to /home/isra/.vscode/extensions/ms-ceintl.vscode-language-pack-es-1.73.11090918
+2022-11-09 15:32:43.173 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2022-11-09 15:32:43.179 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2022-11-09 15:32:43.369 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es
+2022-11-09 15:33:15.740 [error] [uncaught exception in sharedProcess]: Error del sistema (ENOENT: no such file or directory, scandir '/home/isra/.config/Code/clp/b07c40c9acb9e1d7b3ca14b06f814803.es'): Error: ENOENT: no such file or directory, scandir '/home/isra/.config/Code/clp/b07c40c9acb9e1d7b3ca14b06f814803.es'

@@ -1,0 +1,8 @@
+2022-11-07 00:30:35.489 [info] update#setState idle
+2022-11-07 00:30:36.845 [info] Starting extension host with pid 3988 (fork() took 12 ms).
+2022-11-07 00:31:05.500 [info] update#setState checking for updates
+2022-11-07 00:31:05.509 [error] Error: net::ERR_INTERNET_DISCONNECTED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7047)
+    at SimpleURLLoaderWrapper.emit (node:events:526:28)
+2022-11-07 00:31:05.509 [info] update#setState idle
+2022-11-07 00:32:53.615 [info] Extension host with pid 3988 exited with code: 0, signal: null.

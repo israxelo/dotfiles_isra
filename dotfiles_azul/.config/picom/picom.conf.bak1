@@ -1,0 +1,48 @@
+#################################
+#           Fading              #
+#################################
+
+fading = true
+
+fade-in-step = 0.03;
+
+fade-out-step = 0.03;
+
+#################################
+#   Transparency / Opacity      #
+#################################
+
+inactive-opacity = 1
+
+frame-opacity = 0.7;
+
+inactive-opacity-override = false;
+
+focus-exclude = [ "class_g = 'Cairo-clock'" ];
+
+#################################
+#     Background-Blurring       #
+#################################
+backend = "glx";
+blur: {
+  method = "kawase";
+  strength = 10;
+  background = false;
+  background-frame = false;
+  background-fixed = false;
+}
+
+#################################
+#      Esquinas redondas        #                             
+#################################
+corner-radius = 17.0;
+detect-rounded-corners = true;
+rounded-corners-exclude = [
+  "window_type = 'menu'",
+  "window_type = 'dropdown_menu'",
+  "window_type = 'popup_menu'",
+  "window_type = 'utility'",
+  "class_g = 'Polybar'",
+  "class_g = 'rofi'"
+];
+

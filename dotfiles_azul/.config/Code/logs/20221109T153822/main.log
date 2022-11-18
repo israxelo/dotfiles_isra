@@ -1,0 +1,5 @@
+2022-11-09 15:38:23.089 [info] update#setState idle
+2022-11-09 15:38:24.152 [info] Starting extension host with pid 4165 (fork() took 9 ms).
+2022-11-09 15:38:53.097 [info] update#setState checking for updates
+2022-11-09 15:38:53.204 [info] update#setState idle
+2022-11-09 15:44:28.560 [info] Extension host with pid 4165 exited with code: 0, signal: null.

@@ -1,0 +1,2 @@
+2022-11-07 15:38:00.038 [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {}
+2022-11-07 15:38:02.332 [info] [perf] Render performance baseline is 228ms

@@ -1,0 +1,6 @@
+2022-11-08 21:38:40.943 [info] update#setState idle
+2022-11-08 21:38:42.138 [info] Starting extension host with pid 25291 (fork() took 10 ms).
+2022-11-08 21:39:10.951 [info] update#setState checking for updates
+2022-11-08 21:39:11.100 [info] update#setState idle
+2022-11-08 21:41:12.471 [warning] Sending IPC message to channel 'vscode:electron-main->shared-process=exit' for shared process window that is destroyed
+2022-11-08 21:41:12.471 [info] Waiting for extension host with pid 25291 to exit.

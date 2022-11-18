@@ -1,0 +1,52 @@
+file:///home/isra/Descargas/configs-20221102T153830Z-001/configs/configs/cosas_javascript/ejercicios%20javascript_map_filter_reduce_y_eso.js {"mtime":1665804964000,"ctime":1667403606161,"size":1516,"etag":"39gehjq2m1hs","orphaned":false,"typeId":""}
+//ejercicios de la hoja de map,filter, reduce..
+//ejercicio1
+const superHeroes = [ 
+	{nombre:'Batman', tipo:'DC'},
+	{nombre:'Linterna Verde', tipo:'DC'},
+	{nombre:'Lobezno', tipo:'Marvel'},
+	{nombre:'Spiderman', tipo:'Marvel'},
+	];
+
+/*1.- Realiza una función que se le pasen como parámetros la lista
+ y el tipo. Debe devolver una lista únicamente con los elementos del tipo indicado*/
+const ejercicio1 = (lista,tipo) => lista.filter(el => el.tipo === tipo);
+console.log(ejercicio1(superHeroes,'DC'));
+/*
+2.- Tenemos que cambiar el nombre de todos los super héroes de DC a 
+‘CAMBIADO’ un espacio en blanco y el nombre del super Héroe
+*/
+console.log(superHeroes
+	.map(x=>{
+		if(x.tipo === 'DC'){return x.tipo = `CAMBIADO ${x.nombre}`}
+		else 
+		return x
+	}))
+/*3.- Muestra en pantalla la cantidad de super Heroes de DC que existen en la tabla*/ 
+console.log(
+	superHeroes.reduce((acc,el)=>{
+		if(el.tipo === 'DC')
+			return acc+=1;
+		else 
+			return acc;
+	},0)
+);
+/*
+5.- Añade, en superHeroes, dos nuevos super Héroes al final de la lista
+*/
+const obj1 = {nombre:'isra',tipo:'Dios'};
+const obj2 = {nombre:'carlos',tipo:'perro'};
+superHeroes.push(obj1);
+superHeroes.push(obj2);
+console.log(superHeroes);
+/*
+6.- Añade otros dos superHeroes al inicio de la lista
+*/ 
+const obj3 = {nombre:'naty', tipo:'caca'};
+const obj4 = {nombre:'uvuvue',tipo:'yetenbue'};
+superHeroes.unshift(obj3);
+superHeroes.unshift(obj4);
+console.log(superHeroes);
+/*
+Ordena, alfabéticamente, los superHeroes por nombre (investiga)
+*/ 

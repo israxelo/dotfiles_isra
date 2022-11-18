@@ -1,0 +1,58 @@
+{
+   "checksum": "5e9fdc19acaf8ec81520aa0f35e2538d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13311945508741338",
+            "date_last_used": "13311949911100982",
+            "guid": "6b3c4348-d3b2-4575-8f80-b9f7b34be404",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AULA",
+            "type": "url",
+            "url": "https://aulavirtual32.educa.madrid.org/ies.villaverde.madrid/my/courses.php"
+         }, {
+            "date_added": "13311954015365919",
+            "date_last_used": "0",
+            "guid": "94261cda-2768-46d0-95ab-84e15e64a2de",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "glass",
+            "type": "url",
+            "url": "https://github.com/umgbhalla/dotstow"
+         } ],
+         "date_added": "13311945399331707",
+         "date_last_used": "0",
+         "date_modified": "13311954015365919",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13311945399331709",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13311945399331711",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Marcadores del móvil",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

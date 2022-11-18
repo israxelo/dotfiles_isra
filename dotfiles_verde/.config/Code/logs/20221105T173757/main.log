@@ -1,0 +1,6 @@
+2022-11-05 17:37:58.116 [info] update#setState idle
+2022-11-05 17:37:59.551 [info] Starting extension host with pid 15797 (fork() took 12 ms).
+2022-11-05 17:38:28.129 [info] update#setState checking for updates
+2022-11-05 17:38:28.185 [info] update#setState idle
+2022-11-05 17:40:49.789 [info] Waiting for extension host with pid 15797 to exit.
+2022-11-05 17:40:49.804 [info] Extension host with pid 15797 exited with code: 0, signal: null.

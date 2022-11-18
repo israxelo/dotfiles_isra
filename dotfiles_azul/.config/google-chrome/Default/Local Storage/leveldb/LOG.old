@@ -1,0 +1,6 @@
+2022/11/09-18:40:34.279 3 Reusing MANIFEST /home/isra/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/09-18:40:34.282 3 Recovering log #93
+2022/11/09-18:40:34.283 3 Reusing old log /home/isra/.config/google-chrome/Default/Local Storage/leveldb/000093.log 
+2022/11/09-18:48:43.156 3 Level-0 table #97: started
+2022/11/09-18:48:43.198 3 Level-0 table #97: 17889 bytes OK
+2022/11/09-18:48:43.202 3 Delete type=0 #93

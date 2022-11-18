@@ -1,0 +1,8 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "workbench.colorTheme": "Monokai-Contrast",
+    "editor.fontSize": 26,
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": false,
+    "workbench.statusBar.visible": false
+}
